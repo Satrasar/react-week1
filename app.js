@@ -10,6 +10,7 @@ const getUser = async(Number) => {
    
 }
 
+
 const getPost = async(Number) =>{
     const {data} = await axios("https://jsonplaceholder.typicode.com/posts?id=" + Number);
      
