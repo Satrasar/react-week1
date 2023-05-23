@@ -10,4 +10,4 @@ console.log(users)
 hello('ozlem');*/
 import getData from "./app.js"
 
-getData(2);
+console.log(getData(1));
