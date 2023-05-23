@@ -8,6 +8,6 @@ console.log(users)
 
 
 hello('ozlem');*/
-import getData from "./app.js";
+import getData from "./app.js"
 
 getData(2);
